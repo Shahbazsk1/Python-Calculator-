@@ -3,17 +3,17 @@ An interactive command-line calculator built in Python that performs basic arith
 The calculator supports chained operations where users can continue calculations with the previous result or start a new one.
 
 ✅Step 1: Import ASCII Art
-Imported a logo from a custom art.py file to display a cool calculator banner when the program starts.
+<br>Imported a logo from a custom art.py file to display a cool calculator banner when the program starts.
 
 ✅ Step 2: Define Arithmetic Functions
 Created four core functions:
-add(n1, n2)
-subtract(n1, n2)
-multiply(n1, n2)
-divide(n1, n2)
+<br>add(n1, n2)
+<br>subtract(n1, n2)
+<br>multiply(n1, n2)
+<br>divide(n1, n2)
 
 ✅ Step 3: Store Functions in a Dictionary
-Mapped operators (+, -, *, /) to their respective functions in a dictionary called operations.
+<br>Mapped operators (+, -, *, /) to their respective functions in a dictionary called operations.
 <br>Example: operations["+"] = add
 
 ✅ Step 4: Build the Main Calculator Logic
